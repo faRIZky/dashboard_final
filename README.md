@@ -16,3 +16,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+Access the dashboard here:
+https://dashboardfinal-bxzpqxpwxtrakdfcejbs2x.streamlit.app/
